@@ -1,0 +1,3 @@
+Master branch első commit.
+
+Beolvasom a jelszo.txt-ből az adatbázis felhasználó nevét és jelszavát, amely alapján csatlakozom a szoftverből a rendszer adatbázisához.
